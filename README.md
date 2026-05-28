@@ -10,7 +10,7 @@ Data Scientist | Java Developer | Web development | Mobile Application | ML & DL
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=chipkarsaish&theme=github_dark_dimmed&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=chipkarsaish&theme=github_dark_dimmed&hide_border=false" style="margin-right: 20px;" />
 
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=chipkarsaish&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
