@@ -7,6 +7,8 @@ I enjoy building practical software solutions across **Artificial Intelligence, 
 - 🌱 Strengthening my expertise in Software Engineering and Cloud Technologies
 - 💻 Interested in AI/ML, Backend Engineering, and Full-Stack Development
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://saishportfolio.vercel.app/)
+
 
 
 # 🌐 Connect With Me
