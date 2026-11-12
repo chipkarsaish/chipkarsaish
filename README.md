@@ -14,7 +14,7 @@ I enjoy building practical software solutions across **Artificial Intelligence, 
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saish-chipkar-2237b82b3)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chipkarsaish75@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saish.chipkar25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chipkarsaish)
 
 
