@@ -1,19 +1,144 @@
 # 💫 About Me
-Data Scientist | Java Developer | Web development | Mobile Application | ML & DL 
+### Software Developer | Data Science | Cloud Engineering
+
+I enjoy building practical software solutions across **Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Engineering**. My interests include developing intelligent applications, designing scalable APIs, working with LLMs, and building data-driven systems.
+
+- 🔭 Exploring Generative AI, RAG Systems, and LLM Fine-Tuning
+- 🌱 Strengthening my expertise in Software Engineering and Cloud Technologies
+- 💻 Interested in AI/ML, Backend Engineering, and Full-Stack Development
 
 
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saish-chipkar-2237b82b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chipkarsaish75@gmail.com) 
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![llama.cpp](https://img.shields.io/badge/llama.cpp-222222?style=for-the-badge&logo=cplusplus&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saish-chipkar-2237b82b3)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chipkarsaish75@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chipkarsaish)
+
+
+
+# 🛠️ Technical Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Web
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI / ML & GenAI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+
+
+# 🚀 Featured Projects
+
+### 01. TraceZero — Metadata Privacy Firewall
+**Java · JavaFX · Apache PDFBox · Apache POI · MVC**
+
+A multi-format metadata privacy application that detects, extracts, and sanitizes hidden metadata across PDF, DOCX, ZIP, and image files.
+
+- Format-specific metadata extraction and cleaning.
+- Scan history, statistics, and report persistence.
+- MVC-based desktop application with dedicated scanning and cleaning workflows.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chipkarsaish/TRACEZERO_mod)
+
+### 02. Knowledge Copilot — Hybrid RAG Document Intelligence
+**Python · FastAPI · Qdrant · BM25 · RRF · Cross-Encoder**
+
+A document intelligence system combining dense and sparse retrieval to improve document discovery and contextual answer generation.
+
+- Hybrid retrieval using vector search and BM25.
+- Reciprocal Rank Fusion and cross-encoder reranking.
+- Document ingestion, chunking, embedding, and metadata pipelines.
+
+### 03. Client Management System
+**Java · Spring Boot · React.js · MySQL · Spring Data JPA**
+
+A full-stack client management platform designed to manage centralized client records, document workflows, hierarchical relationships, and multi-location branch operations.
+
+- RESTful backend services and interactive React interfaces.
+- Relational database schema and entity relationship design.
+- Structured client lifecycle and document management.
+
+### 04. Gemma-3 1B — LoRA Fine-Tuning for Knowledge Graph Generation
+**Python · PyTorch · Transformers · PEFT · LoRA · TRL**
+
+Fine-tuned Google's Gemma-3 1B instruction-tuned model to generate structured knowledge graphs from scientific text.
+
+- Parameter-efficient fine-tuning using LoRA.
+- Physics instruction dataset preparation and preprocessing.
+- Fine-tuned adapter inference and knowledge graph generation.
+
+
+
+# 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+- Google Advanced Data Analytics Professional Certificate
+
+
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=chipkarsaish&theme=github_dark_dimmed&hide_border=false" 
-    style="margin-right: 20px;" />
-
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=chipkarsaish&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=chipkarsaish&theme=github_dark_dimmed&hide_border=true" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipkarsaish&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chipkarsaish&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and experimenting with technology — one project at a time.</i>
+</p>
