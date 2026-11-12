@@ -129,16 +129,13 @@ Fine-tuned Google's Gemma-3 1B instruction-tuned model to generate structured kn
   <img height="165" src="https://streak-stats.demolab.com/?user=chipkarsaish&theme=github_dark_dimmed&hide_border=true" />
 </p>
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipkarsaish&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chipkarsaish&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipkarsaish&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chipkarsaish&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" />
-</p>
-
----
-
-<p align="center">
-  <i>Building, learning, and experimenting with technology — one project at a time.</i>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=chipkarsaish&theme=github-dark-blue&hide_border=true" />
 </p>
